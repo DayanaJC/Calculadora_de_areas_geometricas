@@ -8,11 +8,11 @@ Una aplicación de escritorio **completamente interactiva** desarrollada con PyQ
 
 ##  Características Principales
 
-** Cálculo automático en tiempo real** - Los resultados se actualizan mientras escribes  
-** Interfaz moderna e intuitiva** - Diseño colorido y fácil de usar  
-** Historial de cálculos** - Guarda todos tus cálculos realizados  
-** Validación instantánea** - Detecta errores al momento  
-** 4 figuras geométricas** - Círculo, Triángulo, Rectángulo, Cuadrado  
+**Cálculo automático en tiempo real** - Los resultados se actualizan mientras escribes  
+**Interfaz moderna e intuitiva** - Diseño colorido y fácil de usar  
+**Historial de cálculos** - Guarda todos tus cálculos realizados  
+**Validación instantánea** - Detecta errores al momento  
+**4 figuras geométricas** - Círculo, Triángulo, Rectángulo, Cuadrado  
 
 ##  Instalación y Ejecución
 
@@ -66,24 +66,7 @@ python scripts/demo.py
 
 ##  Estructura del Proyecto
 
-bash
-proyecto/
-├── scripts/
-│   ├── demo.py                   #  Demo en consola
-│   └── requirements.py           #  Dependencias del proyecto
-├── src/
-│   ├── logica/                   #  Lógica de negocio (POO)
-│   │   ├── __init__.py
-│   │   └── areas.py              # Clases de figuras geométricas
-│   └── vista/                    #  Interfaz gráfica
-│       ├── __init__.py
-│       ├── calculadora_widget.py # Widget principal interactivo
-│       └── ui_main.py            # UI generada (opcional)
-├── app.py                        #  Punto de entrada principal
-├── test_simple.py                #  Pruebas simples (unitarias)
-└── README.md                     #  Este archivo
-
-
+![image](https://github.com/user-attachments/assets/438b2e49-4075-4d8e-a1aa-37e49e0a5c6c)
 
 ##  Características Técnicas
 
